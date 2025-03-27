@@ -1,0 +1,7 @@
+
+
+
+[ops435b]
+vmlab ansible_host=myvmlab.senecapolytechnic.ca ansible_port=7383 
+myvmlab ansible_host=myvmlab.senecapolytechnic.ca ansible_port=7384
+myvmlab ansible_host=myvmlab.senecapolytechnic.ca ansible_port=7385
